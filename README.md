@@ -9,7 +9,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [WalkthroughVideo)
+  * [WalkthroughVideo](#walkthroughvideo)
   * [License](#license)
     
   * [Contributing](#contributing)
