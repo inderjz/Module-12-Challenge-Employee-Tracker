@@ -41,6 +41,9 @@
 <img width="766" alt="Screenshot 2022-12-13 at 8 47 59 PM" src="https://user-images.githubusercontent.com/112728880/207508401-1164385b-63f9-488d-a546-763e68597ce5.png">
 
 
+  
+  ## [Walkthrough
+  
   ## [License](#table-of-contents)
 
   The application is covered under the following license:
