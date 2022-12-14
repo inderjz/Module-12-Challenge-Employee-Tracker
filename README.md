@@ -34,7 +34,9 @@
 
   Use the following instructions to make sure you have all the required technologies installed before using this project. 'npm I', 'npm I inquirer', 'npm I mysql', and 'npm I console.table' should be executed. Make sure to open SQL files in MySQL Workbench after executing all of the aforementioned instructions. To accomplish this, launch MySQL Workbench and, on MacOS, click on File, then choose Open SQL Script. After doing so, make sure you are in the project directory and that your server.js is connected to SQL by running "node server.js" on the terminal before moving on. Once you are connected to the SQL, you may proceed with prompts as necessary.
   
- <img width="1187" alt="Screenshot 2022-12-13 at 8 44 39 PM" src="https://user-images.githubusercontent.com/112728880/207508024-d69f995a-71bc-49c7-9b05-5579bde84120.png">
+<img width="770" alt="Screenshot 2022-12-13 at 8 47 03 PM" src="https://user-images.githubusercontent.com/112728880/207508264-11df7426-082b-4528-b429-45a998cf4ed4.png">
+
+<img width="1187" alt="Screenshot 2022-12-13 at 8 44 39 PM" src="https://user-images.githubusercontent.com/112728880/207508024-d69f995a-71bc-49c7-9b05-5579bde84120.png">
   
   ## [License](#table-of-contents)
 
