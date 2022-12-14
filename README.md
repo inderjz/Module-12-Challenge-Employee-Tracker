@@ -32,7 +32,7 @@
 
   ## [Usage](#table-of-contents)
 
-  Use the following instructions to make sure you have all the required technologies installed before using this project. 'npm I 'npm I inquirer', 'npm I mysql', and 'npm I console.table' should be executed. Make sure to open SQL files in MySQL Workbench after executing all of the aforementioned instructions. To accomplish this, launch MySQL Workbench and, on MacOS, click on File, then choose Open SQL Script. After doing so, make sure you are in the project directory and that your server.js is connected to SQL by running "node server.js" on the terminal before moving on. Once you are connected to the SQL, you may proceed with prompts as necessary.
+  Use the following instructions to make sure you have all the required technologies installed before using this project. 'npm I', 'npm I inquirer', 'npm I mysql', and 'npm I console.table' should be executed. Make sure to open SQL files in MySQL Workbench after executing all of the aforementioned instructions. To accomplish this, launch MySQL Workbench and, on MacOS, click on File, then choose Open SQL Script. After doing so, make sure you are in the project directory and that your server.js is connected to SQL by running "node server.js" on the terminal before moving on. Once you are connected to the SQL, you may proceed with prompts as necessary.
   
   For more information on how to add screenshots for examples, visit the following website:
   
